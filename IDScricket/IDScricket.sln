@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "IDScricket", "IDScricket\IDScricket.pyproj", "{FCFCC101-21A2-4AEF-AA96-9983369CE377}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCFCC101-21A2-4AEF-AA96-9983369CE377}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCFCC101-21A2-4AEF-AA96-9983369CE377}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9AB8BD84-2BD5-4B7F-8E44-EDE84795D21B}
+	EndGlobalSection
+EndGlobal
